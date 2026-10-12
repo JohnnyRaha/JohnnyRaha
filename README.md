@@ -8,6 +8,7 @@ I learn by building. Most of what's here started as a problem I wanted to solve,
 
 | Project | What it does | Built with |
 | --- | --- | --- |
+| [StatsLab](https://github.com/JohnnyRaha/statslab) | Statistical tests, graphs and machine learning in the browser, with a spreadsheet-style worksheet and nothing to install ([try it](https://johnnyraha.github.io/statslab/)) | JavaScript, jStat, Plotly |
 | [StemForge](https://github.com/JohnnyRaha/StemForge) | Desktop app that splits a song into vocals, drums, bass and other stems, entirely on your own machine | Python, PyTorch, Demucs, DeepFilterNet |
 | [track2prompt](https://github.com/JohnnyRaha/track2prompt) | Analyses an audio track (tempo, key, chords, structure, production) and writes a prompt for text-to-music models, including Suno-ready fields | Python, librosa, scikit-learn |
 | [Takeroom](https://github.com/JohnnyRaha/takeroom) | Self-hosted music-generation studio for Apple Silicon | FastAPI, SQLite, ACE-Step 1.5 (MLX), Ollama, Demucs |
