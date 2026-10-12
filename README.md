@@ -8,6 +8,7 @@ I learn by building. Most of what's here started as a problem I wanted to solve,
 
 | Project | What it does | Built with |
 | --- | --- | --- |
+| [OpExBench](https://github.com/JohnnyRaha/opexbench) | Lean Six Sigma workbench in the browser: a DMAIC project workspace, value stream mapping, process mining that flags improvement and automation opportunities, and the quality tools and statistics behind them ([try it](https://johnnyraha.github.io/opexbench/)) | JavaScript, jStat, Plotly |
 | [StatsLab](https://github.com/JohnnyRaha/statslab) | Statistical tests, graphs and machine learning in the browser, with a spreadsheet-style worksheet and nothing to install ([try it](https://johnnyraha.github.io/statslab/)) | JavaScript, jStat, Plotly |
 | [StemForge](https://github.com/JohnnyRaha/StemForge) | Desktop app that splits a song into vocals, drums, bass and other stems, entirely on your own machine | Python, PyTorch, Demucs, DeepFilterNet |
 | [track2prompt](https://github.com/JohnnyRaha/track2prompt) | Analyses an audio track (tempo, key, chords, structure, production) and writes a prompt for text-to-music models, including Suno-ready fields | Python, librosa, scikit-learn |
