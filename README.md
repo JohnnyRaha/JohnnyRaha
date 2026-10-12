@@ -10,6 +10,7 @@ I learn by building. Most of what's here started as a problem I wanted to solve,
 | --- | --- | --- |
 | [StemForge](https://github.com/JohnnyRaha/StemForge) | Desktop app that splits a song into vocals, drums, bass and other stems, entirely on your own machine | Python, PyTorch, Demucs, DeepFilterNet |
 | [track2prompt](https://github.com/JohnnyRaha/track2prompt) | Analyses an audio track (tempo, key, chords, structure, production) and writes a prompt for text-to-music models, including Suno-ready fields | Python, librosa, scikit-learn |
+| [Pitch correction](https://github.com/JohnnyRaha/pitch-correction) | Auto-tune with pitch detection, key-aware snapping and natural-sounding resynthesis | Python, pYIN, PSOLA, Gradio |
 
 ### Research
 
